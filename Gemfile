@@ -8,4 +8,4 @@ group :development do
 gem "pry"
 end
 
-gem 'rack', git: 'https://github.com/rack/rack'
+# gem 'rack', git: 'https://github.com/rack/rack'
